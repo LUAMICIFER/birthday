@@ -1,2 +1,2 @@
 
-worker: python3 qnrotus.py
+worker: python3 ADVIK.py
