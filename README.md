@@ -1,11 +1,11 @@
 <h1 align="center">
-  <b> ╔»⟦★𝗤𝗡𝗥★⟧«╗ SᑭᗩᗰᗰEᖇ ᗷOT </b>
+  <b> 𝓐𝓓𝓥𝓘𝓚 𝓑𝓘𝓡𝓣𝓗𝓓𝓐𝓨 𝓢𝓟𝓐𝓜 𝓑𝓞𝓣</b>
 </h1>
 <h1 align="center">
-  <b>Ꭺ ᏢOᏔᎬᎡҒႮᏞ SᑭᗩᗰᗰEᖇ ᗷOT ᏔᎻᏆᏟᎻ ᏔOᎡᏦ OΝ TᎬᏞᎬᏀᎡᎪᎷ ᏴᎪՏᎬᎠ OΝ TᎬᏞᎬTᎻOΝ. ᏴᎽ ᎠᎬᏢᏞOᎽᏆΝᏀ/ᎻOՏTᏆΝᏀ TᎻᏆՏ Ⴎ ᏟᎪΝ ՏᏢᎪᎷ OΝ TᎬᏞᎬᏀᎡᎪᎷ ᏴᎽ OΝᎬ ᏟOᎷᎷᎪΝᎠ TO 30 ᎪᏟᏟOႮΝT ᎪT OΝᎬ TᏆᎷᎬ.</b>
+  <b>𝓓𝓔𝓟𝓛𝓞𝓨 𝓣𝓗𝓘𝓢 𝓑𝓞𝓣 𝓣𝓞 𝓦𝓘𝓢𝓗 𝓨𝓞𝓤𝓡 𝓕𝓡𝓘𝓔𝓝𝓓𝓢 𝓐𝓝𝓓 𝓛𝓞𝓥𝓔𝓓 𝓞𝓝𝓔𝓢 </b>
 </h1>
 <p align="center">
-  <img src="https://telegra.ph/file/1ecd72d276cfffb731ee0.jpg" alt="QNR SPAMBOT">
+  <img src="https://te.legra.ph/file/34a65bf74f53671cae445.jpg" alt="ADVIK SPAM BOT">
 </p>
 
 
@@ -36,5 +36,5 @@ Any queries or issue contact
 
 ------
 ## CREDITS
-- [Qnr-Official](https://t.me/UnSupportedName)
-- [Team-Rood](https://t.me/Rood_Gamer)
+- [ADVIK](https://t.me/LUAMI_CIFER)
+
