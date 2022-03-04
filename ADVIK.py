@@ -127,8 +127,8 @@ async def start_yukki():
             print("Booting Up The Client 1")
             await str1.start()
             botme = await str1.get_me()
-            await str1(functions.channels.JoinChannelRequest(channel="@QNROTUSCHAT"))
-            await str1(functions.channels.JoinChannelRequest(channel="@QNR_OTUS"))
+            await str1(functions.channels.JoinChannelRequest(channel="@heeeeelllloooo"))
+            await str1(functions.channels.JoinChannelRequest(channel="@luami_cifer"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -151,8 +151,8 @@ async def start_yukki():
         try:
             print("Booting Up The Client 2")
             await str2.start()
-            await str2(functions.channels.JoinChannelRequest(channel="@QNROTUSCHAT"))
-            await str2(functions.channels.JoinChannelRequest(channel="@QNR_OTUS"))
+            await str2(functions.channels.JoinChannelRequest(channel="@heeeeelllloooo"))
+            await str2(functions.channels.JoinChannelRequest(channel="@luami_cifer"))
             botme = await str2.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -176,8 +176,8 @@ async def start_yukki():
         try:
             print("Booting Up The Client 3")
             await  str3.start()
-            await str3(functions.channels.JoinChannelRequest(channel="@QNROTUSCHAT"))
-            await str3(functions.channels.JoinChannelRequest(channel="@QNR_OTUS"))
+            await str3(functions.channels.JoinChannelRequest(channel="@heeeeelllloooo"))
+            await str3(functions.channels.JoinChannelRequest(channel="@luami_cifer"))
             botme = await str3.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -201,8 +201,8 @@ async def start_yukki():
         try:
             print("Booting Up The Client 4")
             await str4.start()
-            await str4(functions.channels.JoinChannelRequest(channel="@QNROTUSCHAT"))
-            await str4(functions.channels.JoinChannelRequest(channel="@QNR_OTUS"))
+            await str4(functions.channels.JoinChannelRequest(channel="@heeeeelllloooo"))
+            await str4(functions.channels.JoinChannelRequest(channel="@luami_cifer"))
             botme = await str4.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
