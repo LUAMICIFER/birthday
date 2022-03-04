@@ -226,8 +226,8 @@ async def start_yukki():
         try:
             print("Booting Up The Client 5")
             await str5.start()
-            await str5(functions.channels.JoinChannelRequest(channel="@QNROTUSCHAT"))
-            await str5(functions.channels.JoinChannelRequest(channel="@QNR_OTUS"))
+            await str5(functions.channels.JoinChannelRequest(channel="@heeeeelllloooo"))
+            await str5(functions.channels.JoinChannelRequest(channel="@luami_cifer"))
             botme = await str5.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -251,8 +251,8 @@ async def start_yukki():
         try:
             print("Booting Up The Client 6")
             await str6.start()
-            await str6(functions.channels.JoinChannelRequest(channel="@QNROTUSCHAT"))
-            await str6(functions.channels.JoinChannelRequest(channel="@QNR_OTUS"))
+            await str6(functions.channels.JoinChannelRequest(channel="@heeeeelllloooo"))
+            await str6(functions.channels.JoinChannelRequest(channel="@luami_cifer"))
             botme = await str6.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
